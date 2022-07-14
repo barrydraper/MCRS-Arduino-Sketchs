@@ -1,2 +1,2 @@
 # MRCS-Arduino-Sketchs
-Sketchs for MCRS Dual Servo controler and other boards
+Sketchs for MRCS Dual Servo controler and other boards
